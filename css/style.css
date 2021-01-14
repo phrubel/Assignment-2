@@ -1,0 +1,43 @@
+.header-background{
+    background-color:#FFFBF0
+}
+.img-background{
+    background-color:#F1F1F1;
+    border-radius: 10px;
+}
+.heading-style{
+    font-size: 35px;
+    font-weight: 700;
+}
+.fit-section img{
+    width: 100%;
+}
+.buy-now-button{
+    padding: 8px 22px;
+    background-color: rgb(146,172,44);
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.top-heading{
+    font-size: 50px;
+    font-weight: 700;
+}
+.card-title{
+    font-size: 25px;
+    font-weight: 700;
+}
+.heading-color{
+    color: rgb(250,190,76);
+}
+footer{
+    text-align: center;
+}
+.price{
+    margin-right:2em;
+}
+#subscribe{
+    height: 350px;
+    border-radius: 10px;
+    background-color: lightgray;
+}
